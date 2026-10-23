@@ -1,0 +1,5 @@
+interface:
+  display_name: "ArcGIS 精细制图"
+  short_description: "离线制作规范、清爽、可编辑的 ArcGIS 专题图"
+  brand_color: "#4C7A5A"
+  default_prompt: "Use $arcgis-map-craft to create an offline, editable ArcGIS Pro thematic map with the established report layout and cartographic style."
