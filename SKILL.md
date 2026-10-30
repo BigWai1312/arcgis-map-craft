@@ -5,7 +5,7 @@ metadata:
   author: BigWai1312
 ---
 
-# Lee‘s GISPicture
+# LEEZY'sGISPicture
 
 Use this skill when a map must be analytically readable, visually consistent, offline, and editable in ArcGIS Pro. It covers thematic maps with DEM, hillshade, water, roads, administrative boundaries, town polygons, planning zones, village points, and report-ready layout elements.
 

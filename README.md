@@ -1,4 +1,4 @@
-# Lee‘s GISPicture
+# LEEZY'sGISPicture
 
 作者：**BigWai1312**
 
@@ -34,7 +34,7 @@ Skill 位于仓库根目录，安装名称为 arcgis-map-craft。
 
 ## 使用
 
-在消息中明确写上 `$arcgis-map-craft`，并给出数据位置、字段、单位、输出位置及 ArcPy 环境。支持 Skill 选择器的界面，也可搜索“Lee‘s GISPicture”。显示名称已更新，调用名和安装目录仍为 `arcgis-map-craft`。只写 Skill 名不会自动知道你的数据放在哪里。
+在消息中明确写上 `$arcgis-map-craft`，并给出数据位置、字段、单位、输出位置及 ArcPy 环境。支持 Skill 选择器的界面，也可搜索“LEEZY'sGISPicture”。显示名称已更新，调用名和安装目录仍为 `arcgis-map-craft`。只写 Skill 名不会自动知道你的数据放在哪里。
 
 例如，先制作一张样图：
 
