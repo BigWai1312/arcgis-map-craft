@@ -1,4 +1,10 @@
-# LEEZY'sGISPicture
+# LEEZY MapCraft（旧版独立仓库）
+
+> **新版维护入口：[LEEZY Skills](https://github.com/BigWai1312/leezy-skills)**
+>
+> 作者：[BigWai1312](https://github.com/BigWai1312)。新技能名称为 **LEEZY MapCraft**，安装路径为 `skills/leezy-mapcraft`，调用名为 `$leezy-mapcraft`。
+>
+> 本仓库及历史发布保留旧调用 `$arcgis-map-craft`。下文是旧版安装说明；新用户请使用 [集合安装说明与参考示例](https://github.com/BigWai1312/leezy-skills#安装)。
 
 作者：**BigWai1312**
 
